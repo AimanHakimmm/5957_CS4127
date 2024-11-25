@@ -1,6 +1,6 @@
 .hero-banner {
     position: relative;
-    background: url('images/Shopping.jpg') no-repeat center center/cover;
+    background: url('Shopping.jpg') no-repeat center center/cover;
     height: 70vh; 
     display: flex;
     align-items: center;
@@ -68,5 +68,5 @@
   }
 
   .modern-banner {
-    background: url('images/ModernJapan.jpg') no-repeat center center/cover;
+    background: url('ModernJapan.jpg') no-repeat center center/cover;
 }
